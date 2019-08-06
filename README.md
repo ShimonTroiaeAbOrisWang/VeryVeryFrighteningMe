@@ -1,4 +1,4 @@
-# VeryVeryFrighteningMe
+# Very Very Frightening Me
 A shape shooting game developed with OpenGL Utility Toolkit.
 
 Originally made in autumn 2017. Uploaded 2019.
